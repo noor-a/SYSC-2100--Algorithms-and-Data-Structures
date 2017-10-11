@@ -1,7 +1,7 @@
 # Algorithms and Data Structures
 ## SYSC 2100
 
-Grade Recieved: B+
+Grade Recieved: B
 
 #### Languages:
 Java
